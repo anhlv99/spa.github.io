@@ -1,0 +1,66 @@
+.header-logo a {
+    font-size: 56px;
+    font-family: 'Font Awesome 5 Free';
+    color: #a39d9d;
+    text-shadow: -4px -2px 2px black;
+}
+
+.Banner h2 {
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    margin: 3%;
+}
+
+.Contact form {
+    margin: 0 18% 3% 18%;
+    border: 1px solid #d6d5d5;
+    text-align: center;
+    padding: 4% 7%;
+    box-shadow: 0px 1px 7px 1px black;
+    background-color: white;
+    border-radius: 4%;
+    width: 59%;
+}
+
+.Contact form input {
+    width: 28rem;
+    height: 3rem;
+    margin: 3% 0;
+    color: #000;
+    border: none;
+    border-bottom: 1px solid #959090;
+}
+
+.Contact form input:hover {
+    box-shadow: 0 0 2px 2px #e9ac3a;
+}
+
+.Contact form textarea {
+    color: #000;
+}
+
+.Contact form textarea:hover {
+    box-shadow: 0 0 2px 2px #e9ac3a;
+}
+
+.Contact form tr:last-child input {
+    background-color: #f94a0a;
+    font-size: 25px;
+    font-family: 'Glyphicons Halflings';
+    text-align: center;
+    padding: 0 0 1% 0;
+    border: none;
+    color: white;
+}
+
+.Contact form tr:last-child input:hover {
+    background-color: #76290d;
+    box-shadow: none;
+}
+
+.Contact div:last-child {
+    font-size: 19px;
+    line-height: 2em;
+    margin: 0 0 0 -10%;
+}

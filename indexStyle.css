@@ -1,0 +1,38 @@
+/* Home */
+
+.single-slider {
+    background-image: url('https://sites.google.com/site/alinhspabeauty/_/rsrc/1504167982931/home/menu1.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.text1 {
+    margin: 0 0 0 60%;
+    /* width: 50%; */
+}
+
+.header-logo a {
+    font-size: 56px;
+    font-family: 'Font Awesome 5 Free';
+    color: #a39d9d;
+    text-shadow: -4px -2px 2px black;
+}
+
+.footer-logo p {
+    font-size: 56px;
+    font-family: 'Font Awesome 5 Free';
+    color: #a39d9d;
+    text-shadow: -4px -2px 2px black;
+}
+
+.text2 {
+    margin-bottom: 5%;
+    margin-left: 5%;
+    width: 50%;
+    background-color: #0d0d0d24;
+    padding: 2% 8%;
+}
+
+.hair img {
+    height: 280px;
+}
